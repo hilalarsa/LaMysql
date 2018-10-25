@@ -1,0 +1,35 @@
+{
+  "name": "online_judge",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.0.0",
+    "@material-ui/icons": "^1.1.0",
+    "admin-on-rest": "^1.4.0",
+    "aor-json-rest-client": "^2.1.0",
+    "clock": "^1.0.2",
+    "jwt-decode": "^2.2.0",
+    "material-ui": "^0.20.1",
+    "material-ui-dropzone": "^1.0.3",
+    "material-ui-form": "^1.0.0-alpha.22",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "moment": "^2.22.2",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-print-component": "^0.1.8",
+    "react-scripts": "1.1.4",
+    "react-table": "^6.8.6",
+    "react-validation": "^3.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.1",
+    "query-string": "^6.0.0",
+    "react-router-redux": "^4.0.8"
+  }
+}
